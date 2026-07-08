@@ -1,0 +1,116 @@
+[
+  {
+    "id": "money_transfer",
+    "service_ar": "تحويل الأموال",
+    "service_en": "Money Transfer",
+    "keywords_ar": ["تحويل", "احول", "فلوس", "ارسل مبلغ", "ابي احول"],
+    "keywords_en": ["transfer", "send money", "money transfer"],
+    "steps_ar": [
+      "افتح تطبيق الإنماء",
+      "اضغط على التحويلات",
+      "اختر نوع التحويل",
+      "حدد المستفيد",
+      "أدخل المبلغ",
+      "أكد العملية"
+    ],
+    "steps_en": [
+      "Open Alinma App",
+      "Tap Transfers",
+      "Choose transfer type",
+      "Select beneficiary",
+      "Enter the amount",
+      "Confirm the transaction"
+    ],
+    "screen": "TransferPage"
+  },
+  {
+    "id": "add_beneficiary",
+    "service_ar": "إضافة مستفيد",
+    "service_en": "Add Beneficiary",
+    "keywords_ar": ["مستفيد", "اضيف مستفيد", "اضافة مستفيد", "حساب جديد"],
+    "keywords_en": ["beneficiary", "add beneficiary"],
+    "steps_ar": [
+      "افتح تطبيق الإنماء",
+      "اضغط على المستفيدين",
+      "اختر إضافة مستفيد",
+      "أدخل بيانات المستفيد",
+      "فعّل المستفيد"
+    ],
+    "steps_en": [
+      "Open Alinma App",
+      "Tap Beneficiaries",
+      "Choose Add Beneficiary",
+      "Enter beneficiary details",
+      "Activate the beneficiary"
+    ],
+    "screen": "BeneficiaryPage"
+  },
+  {
+    "id": "account_statement",
+    "service_ar": "كشف الحساب",
+    "service_en": "Account Statement",
+    "keywords_ar": [ "كشف الحساب","كشف","كشف حساب","العمليات","كشف العمليات"],
+    "keywords_en": ["statement", "account statement", "transactions"],
+    "steps_ar": [
+      "افتح تطبيق الإنماء",
+      "اضغط على الحسابات",
+      "اختر الحساب المطلوب",
+      "اضغط على كشف الحساب أو العمليات",
+      "حدد الفترة المطلوبة"
+    ],
+    "steps_en": [
+      "Open Alinma App",
+      "Tap Accounts",
+      "Choose the account",
+      "Tap Account Statement or Transactions",
+      "Select the required period"
+    ],
+    "screen": "AccountStatementPage"
+  },
+  {
+    "id": "card_blocking",
+    "service_ar": "إيقاف البطاقة",
+    "service_en": "Card Blocking",
+    "keywords_ar": ["اوقف البطاقة", "ايقاف البطاقة", "ضاعت بطاقتي", "بطاقتي ضاعت", "تجميد البطاقة"],
+    "keywords_en": ["block card", "freeze card", "lost card", "card lost"],
+    "steps_ar": [
+      "افتح تطبيق الإنماء",
+      "اضغط على البطاقات",
+      "اختر البطاقة المطلوبة",
+      "اضغط على إيقاف أو تجميد البطاقة",
+      "أكد الطلب"
+    ],
+    "steps_en": [
+      "Open Alinma App",
+      "Tap Cards",
+      "Choose the required card",
+      "Tap Block or Freeze Card",
+      "Confirm the request"
+    ],
+    "screen": "CardsPage"
+  },
+  {
+    "id": "bill_payment",
+    "service_ar": "سداد الفواتير",
+    "service_en": "Bill Payment",
+    "keywords_ar": ["فاتورة", "فواتير", "سداد", "ادفع فاتورة", "اسدد فاتورة"],
+    "keywords_en": ["bill", "bills", "pay bill", "bill payment"],
+    "steps_ar": [
+      "افتح تطبيق الإنماء",
+      "اضغط على المدفوعات",
+      "اختر سداد الفواتير",
+      "حدد المفوتر",
+      "أدخل المبلغ",
+      "أكد الدفع"
+    ],
+    "steps_en": [
+      "Open Alinma App",
+      "Tap Payments",
+      "Choose Bill Payment",
+      "Select the biller",
+      "Enter the amount",
+      "Confirm payment"
+    ],
+    "screen": "BillPaymentPage"
+  }
+]
